@@ -1,6 +1,6 @@
 # 👨‍💻 Java / Full Stack Developer
 
-> Versatile full-stack engineer with deep expertise across the JVM ecosystem, modern web frameworks, and cloud-native architectures. Passionate about clean code, solid design principles, and building scalable systems.
+
 
 ---
 
