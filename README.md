@@ -45,6 +45,11 @@
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 
+**Rust**
+
+![Rust](https://img.shields.io/badge/Rust-7F52FF?style=flat&logo=Rust&logoColor=white)
+
+
 **Go**
 
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
